@@ -1,0 +1,39 @@
+/* Contact Me Section */
+
+
+#find-me {
+  padding: 3rem 2rem;
+  background: #f0f0f0;
+  text-align: center;
+}
+
+#find-me h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+#find-me p {
+  margin-bottom: 1.5rem;
+  font-size: 1.1rem;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.social-links a {
+  text-decoration: none;
+  color: #007BFF;
+  font-weight: bold;
+  border: 2px solid #007BFF;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+
+.social-links a:hover {
+  background: #007BFF;
+  color: #fff;
+}
